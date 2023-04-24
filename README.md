@@ -1,4 +1,4 @@
-<div align="center"><img height=85px src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=HuoChaiSAMA+HERE!">
+<div align="center"><img height=85px src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=HuoChaiSAMA+HERE!"><img height=170px src="https://github-readme-stats.vercel.app/api?username=HuoChaiSAMA&theme=buefy&locale=cn"><img height=170px src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuoChaiSAMA&theme=buefy&locale=cn"></div>
 <!--
 **HuoChaiSAMA/HuoChaiSAMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,5 +13,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuoChaiSAMA&theme=buefy&locale=cn)](https://github.com/anuraghazra/github-readme-statsbuefy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuoChaiSAMA&theme=buefy&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
